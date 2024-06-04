@@ -1,0 +1,22 @@
+{
+  "name": "xyj2156/typecho-helper",
+  "description": "typecho开发辅助",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "typecho",
+    "develop",
+    "IDE开发辅助"
+  ],
+  "authors": [
+    {
+      "name": "阿杰"
+    }
+  ],
+  "require": {
+    "php": "^7.1"
+  },
+  "bin": [
+    "bin/build-typecho-helper.php"
+  ]
+}
