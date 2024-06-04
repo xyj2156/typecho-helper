@@ -1,6 +1,6 @@
 <?php
 
-$dir = realpath(__DIR__ . '/../..');
+$dir = realpath(__DIR__ . '/../../../..');
 
 $inc = $dir . '/config.inc.php';
 
